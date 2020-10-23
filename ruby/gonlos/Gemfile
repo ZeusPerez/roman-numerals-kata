@@ -1,0 +1,6 @@
+source 'http://rubygems.org'
+
+gem 'flog'
+gem 'pry'
+gem 'rspec'
+gem 'rubocop'
